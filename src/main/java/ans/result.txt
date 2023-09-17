@@ -1,0 +1,3 @@
+原文文件的路径为：E:\3121004844\src\main\java\testFile\article1.txt
+抄袭文件的路径为：E:\3121004844\src\main\java\testFile\article2.txt
+两文件的相似度为：0.859375
